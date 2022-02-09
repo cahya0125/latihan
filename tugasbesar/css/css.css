@@ -1,0 +1,20 @@
+.back{
+    background-color: aqua;
+}
+
+.isi{
+    background-color: black;
+    color: white;
+    
+}
+.padding{
+    padding-top:  20px;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: grey;
+    text-align: center;
+    size: 25px;
+    color: white;
+}
